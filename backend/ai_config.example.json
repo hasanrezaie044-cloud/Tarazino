@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "active_provider": "deepseek",
+  "fallback_provider": null,
+  "providers": {
+    "deepseek": { "base_url": "https://api.deepseek.com", "model": "deepseek-flash", "protocol": "openai" }
+  },
+  "max_input_chars": 8000,
+  "max_output_tokens": 700,
+  "timeout_ms": 30000,
+  "daily_request_limit": 50,
+  "monthly_request_limit": 600
+}

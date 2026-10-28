@@ -1,0 +1,1 @@
+{"_note":"داده نمونه برای آزمون، جدا از داده‌های واقعی کاربر. هرگز در اپ بارگذاری نمی‌شود.","accounts":[{"id":"A","name":"نقد","openingBalance":10000000}],"transactions":[{"type":"INCOME","amount":5000000},{"type":"EXPENSE","amount":2000000}],"expectedBalance":13000000}
